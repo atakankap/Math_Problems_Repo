@@ -366,6 +366,8 @@ Each day can be in exactly one of the following states:
 
 Assume that all elementary outcomes in $\Omega_7$ are **equally likely**.
 
+Assume that the weather on each day is independent and each of the three states occurs with probability $\frac{1}{3}$.
+
 Describe the following events as subsets of $\Omega_7$ and compute their probabilities.
 
 ---
@@ -419,4 +421,3 @@ Compute the probability of the following events:
 ---
 
 Finally, define **one additional event** in this experiment and compute its probability.
-
